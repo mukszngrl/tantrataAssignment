@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tantrata Assignment</string>
+    <string name="search_here">Search here…</string>
+    <string name="search">SEARCH</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="client_id">652c84888011102</string>
+    <string name="client_secret">3b14dc232494b6242fe3f1b56955ae89272dfb10</string>
+    <string name="no_item_found">No item found</string>
+    <string name="loading">Loading…</string>
+</resources>
